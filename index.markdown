@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Forever a work in progress, this is a home for my interests, what I'm learning and various technical notes.
+
+At the moment things are just getting setup, so present content will change.

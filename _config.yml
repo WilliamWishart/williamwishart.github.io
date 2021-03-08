@@ -27,7 +27,7 @@ url: "https://williamwishart.dev" # the base hostname & protocol for your site, 
 twitter_username: 
 github_username:  williamwishart
 show_excerpts: true
-collections:
+# collections:
   # projects:
   #   output: true
   #   permalink: /projects/:path/

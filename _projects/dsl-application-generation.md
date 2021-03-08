@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Domain Specific Language - Application Generation"
 ---
 

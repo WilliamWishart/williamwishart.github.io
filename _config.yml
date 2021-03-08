@@ -21,16 +21,19 @@
 title: william-wishart
 email: william@williamwishart.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  A home for my interests, what I’m learning and various technical notes.
+  A home for my interests, what I’m learning and various technical notes or reminders.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://williamwishart.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  williamwishart
 show_excerpts: true
 collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
+  # projects:
+  #   output: true
+  #   permalink: /projects/:path/
+  # howto:
+  #   output: true
+  #   permalink: /howto/:path/
 
 # Build settings
 theme: minima

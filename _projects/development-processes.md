@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Development Process - old and new"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: timeline
 title: Change Log
 permalink: /changelog/
 ---
